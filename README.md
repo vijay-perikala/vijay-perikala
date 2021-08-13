@@ -27,11 +27,11 @@ I'm VijayManohar Perikala an Entrepreneur and Full Stack Web Developer. I spend 
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I’m currently working at @Mayihelp
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
+- 📫 How to reach me: vijay@perikala.com.my, vijaymanoha@gmail.com
+- 😄 Pronouns: vijay-perikala, perikala-tech.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
 #### Top Technologies
