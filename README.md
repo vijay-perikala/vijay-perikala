@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Hi I'm Vijay Perikala <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm VijayManohar Perikala an Entrepreneur and Full Stack Web Developer. I spend most of my time coding outstanding projects or recording tutorials.
+I'm VijayManohar Perikala an Entrepreneur and Full Stack Web Developer. I spend most of my time coding outstanding projects ,recording tutorials and writing blogs.
 
 :mailbox: Reach me out!
 
