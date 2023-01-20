@@ -33,7 +33,7 @@ I'm VijayManohar Perikala an Entrepreneur and Full Stack Web Developer. I spend 
 - 👯 I’m looking to collaborate on Open Source
 - 🤔 I’m looking for help with Content Writing  and Graphic design
 - 💬 Ask me about Java,Spring,React,angular,React native etc
-- 📫 How to reach me: vijay@perikala.com.my
+- 📫 How to reach me: vijaymanoha@gmail.com, vijay@perikala.com.my
 - 😄 Pronouns: perikala vijay , vijay perikala , Perikala Tech
 - ⚡ Fun fact: Bike riding
 
